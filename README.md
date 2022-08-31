@@ -12,7 +12,7 @@ Down the hashes to your local machine, grab a wordlist shove them into hashcat t
 # Submitting Hashes
 KEEP ALL CRACKED PASSWORDS IN THEIR OWN FILE WITH FOLLOWING FORMAT:
 - Filename: `<last name>_<first name>_<category>.txt`
-- Ex. `merrill_josh_constitution.txt` \
+- Ex. `merrill_josh_constitution.txt`
 
 Keep your crack files separated by category. \
 When finished, email all cracks to jpm7050@psu.edu, top finishers for each category will be announced on discord.
