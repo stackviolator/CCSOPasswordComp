@@ -1,6 +1,6 @@
 # Welcome 
 Welcome to CCSO! This mini-competition is meant to give a background on password cracking. \
-Each hash file has all the hashes in a given category, as well as a hint :). \
+Each hash file has all the hashes in a given category, as well as a hint in the filename :). \
 Note: All hashes are in NTLM format (hashcat mode 1000).
 
 # How To Play
