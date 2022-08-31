@@ -13,7 +13,7 @@ KEEP ALL CRACKED PASSWORDS IN THE FOLLOWING FORMAT:
 - Filename: `<last name>_<first name>_<category>.txt`
 - Ex. `merrill_josh_constitution.txt`
 
-When finished, email all cracks to jpm7050@psu.edu, top 5 will be announced on discord
+When finished, email all cracks to jpm7050@psu.edu, top 5 finishers will be announced on discord
 
 # Potentially Helpful Resources 
 These are a list of resources that might come in handy for the contest :)
